@@ -2,7 +2,6 @@
 Problem: 1185. Day of the Week
 Input: day: integer, month: integer, year: integer
 Output: day of week - string
-
 Explanation:
     We calculate the number of days from input date
     to 12/31/1970. Then calculate the number of days
