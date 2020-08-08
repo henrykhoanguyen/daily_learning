@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fed9b5-7be2-4f8a-8b55-e60079f08ece" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/finished/findDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numOfMinutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verticalTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathSum3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddNSearchWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/finished/AddNSearchWord.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finished/findMin.py" beforeDir="false" afterPath="$PROJECT_DIR$/finished/findMin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verticalTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/finished/verticalTraversal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,19 +18,19 @@
       <file leaf-file-name="numOfMinutes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="180">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verticalTraversal.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/verticalTraversal.py">
+      <file leaf-file-name="PathSum3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PathSum3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+            <state relative-caret-position="255">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
               <folding>
-                <element signature="e#161#184#0" expanded="true" />
+                <element signature="e#429#463#0" />
               </folding>
             </state>
           </provider>
@@ -68,8 +65,9 @@
         <option value="$PROJECT_DIR$/AddNSearchWord.py" />
         <option value="$PROJECT_DIR$/findDuplicates.py" />
         <option value="$PROJECT_DIR$/findMin.py" />
-        <option value="$PROJECT_DIR$/numOfMinutes.py" />
         <option value="$PROJECT_DIR$/verticalTraversal.py" />
+        <option value="$PROJECT_DIR$/numOfMinutes.py" />
+        <option value="$PROJECT_DIR$/PathSum3.py" />
       </list>
     </option>
   </component>
@@ -105,7 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +114,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,8 +139,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.verticalTraversal">
-    <configuration name="AddNSearchWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PathSum3">
+    <configuration name="PathSum3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/AddNSearchWord.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/PathSum3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,26 +224,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verticalTraversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/verticalTraversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.AddNSearchWord" />
       <item itemvalue="Python.addTwoNumbers" />
       <item itemvalue="Python.findDuplicates" />
       <item itemvalue="Python.findMin" />
       <item itemvalue="Python.verticalTraversal" />
+      <item itemvalue="Python.PathSum3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PathSum3" />
         <item itemvalue="Python.verticalTraversal" />
         <item itemvalue="Python.findMin" />
         <item itemvalue="Python.findDuplicates" />
         <item itemvalue="Python.addTwoNumbers" />
-        <item itemvalue="Python.AddNSearchWord" />
       </list>
     </recent_temporary>
   </component>
@@ -296,21 +294,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13742071" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.18060607" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32969698" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32969698" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -322,6 +320,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -504,19 +509,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
+    <entry file="file://$PROJECT_DIR$/finished/verticalTraversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="930">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#161#184#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/verticalTraversal.py">
+    <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+        <state relative-caret-position="180">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PathSum3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding>
-            <element signature="e#161#184#0" expanded="true" />
+            <element signature="e#429#463#0" />
           </folding>
         </state>
       </provider>
