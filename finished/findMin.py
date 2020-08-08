@@ -1,23 +1,39 @@
+'''
+Problem: 154. Find Minimum in Rotated Sorted Array 2
+Input:  nums: List -> a sorted array list of integer
+Output: int -> smallest number in sorted array
+Explanation:
+    Using Binary Search to quickly find the minimum
+    in sorted array. There are 3 base cases in this
+    problem. First case, if mid < right, then we know
+    the smallest number is on the left side of the
+    array. We move right = mid. Second case, if
+    mid > right, then the smallest number is on the
+    right side of the array, we move left = mid + 1.
+    Third case, also the worst case possible, we
+    find that mid == right. This would force us to
+    compare mid and right linearly. aka one number
+    as a time until we find the smallest number or
+    traverse through the array if all numbers in
+    the array are equal.
+'''
+
 from typing import List
 
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        if not nums:
-            return
-
         nlen = len(nums)
 
         left, right = 0, nlen - 1
 
-        while left <= right:
+        while left < right:
             mid = left + (right - left) // 2
 
-            if nums[mid] < nums[left]:
-                right = mid
-                left += 1
-            elif nums[mid] > nums[right]:
+            if nums[mid] > nums[right]:
                 left = mid + 1
-            else:       # nums[left] <= nums[mid] <= nums[high]
+            elif nums[mid] < nums[right]:
+                right = mid
+            elif nums[mid] == nums[right]:
                 right -= 1
 
         print(nums[left])
