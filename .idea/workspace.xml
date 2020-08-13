@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fed9b5-7be2-4f8a-8b55-e60079f08ece" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PathSum3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finished/pascalTriangle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orangesRotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/titleToNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verticalTraversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/finished/verticalTraversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished/h_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/finished/h_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numOfMinutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/numOfMinutes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,23 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="numOfMinutes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
+      <file leaf-file-name="orangesRotting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/orangesRotting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PathSum3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PathSum3.py">
+      <file leaf-file-name="numOfMinutes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-              <folding>
-                <element signature="e#429#463#0" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -66,8 +66,13 @@
         <option value="$PROJECT_DIR$/findDuplicates.py" />
         <option value="$PROJECT_DIR$/findMin.py" />
         <option value="$PROJECT_DIR$/verticalTraversal.py" />
-        <option value="$PROJECT_DIR$/numOfMinutes.py" />
         <option value="$PROJECT_DIR$/PathSum3.py" />
+        <option value="$PROJECT_DIR$/numOfMinutes.py" />
+        <option value="$PROJECT_DIR$/titleToNumber.py" />
+        <option value="$PROJECT_DIR$/h_index.py" />
+        <option value="$PROJECT_DIR$/pascalTriangle2.py" />
+        <option value="$PROJECT_DIR$/finished/h_index.py" />
+        <option value="$PROJECT_DIR$/orangesRotting.py" />
       </list>
     </option>
   </component>
@@ -139,8 +144,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PathSum3">
-    <configuration name="PathSum3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pascalTriangle2">
+    <configuration name="h_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,13 +157,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/PathSum3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/h_index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="addTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numOfMinutes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,13 +175,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/addTwoNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numOfMinutes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="findDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="orangesRotting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,13 +193,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/findDuplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orangesRotting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="findMin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pascalTriangle2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,13 +211,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/findMin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/pascalTriangle2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="verticalTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="titleToNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="daily_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,26 +229,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finished/verticalTraversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/titleToNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.addTwoNumbers" />
-      <item itemvalue="Python.findDuplicates" />
-      <item itemvalue="Python.findMin" />
-      <item itemvalue="Python.verticalTraversal" />
-      <item itemvalue="Python.PathSum3" />
+      <item itemvalue="Python.numOfMinutes" />
+      <item itemvalue="Python.titleToNumber" />
+      <item itemvalue="Python.orangesRotting" />
+      <item itemvalue="Python.h_index" />
+      <item itemvalue="Python.pascalTriangle2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PathSum3" />
-        <item itemvalue="Python.verticalTraversal" />
-        <item itemvalue="Python.findMin" />
-        <item itemvalue="Python.findDuplicates" />
-        <item itemvalue="Python.addTwoNumbers" />
+        <item itemvalue="Python.pascalTriangle2" />
+        <item itemvalue="Python.h_index" />
+        <item itemvalue="Python.orangesRotting" />
+        <item itemvalue="Python.numOfMinutes" />
+        <item itemvalue="Python.titleToNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -273,12 +278,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13742071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13742071" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32969698" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2569697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27515152" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -320,6 +325,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/orangesRotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orangesRotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orangesRotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -513,26 +560,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#161#184#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finished/PathSum3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/titleToNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finished/pascalTriangle2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finished/h_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/numOfMinutes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="435">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PathSum3.py">
+    <entry file="file://$PROJECT_DIR$/orangesRotting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding>
-            <element signature="e#429#463#0" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
